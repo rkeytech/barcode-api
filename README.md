@@ -1,8 +1,6 @@
-# Barcode API 
-
+# Barcode API
 
 ![Lines of code](https://img.shields.io/tokei/lines/github/rkeytech/barcode-api?label=Total%20Lines&style=flat-square)
-
 
 An API, developed with FastAPI framework of Python, which implements the basic functionality of a REST API and is used for operations on barcodes from various products which can be found in greek mini markets.
 
